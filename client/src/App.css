@@ -1,0 +1,17 @@
+.padt{
+  padding-top : 4rem;
+}
+.padAlert{
+  padding-top : 3.5rem;
+}
+.meme{
+  position: relative;
+  height: 4rem;
+  width : 7rem;
+  max-width: 7rem;
+  text-align: center;
+}
+.images{
+  width:25rem;
+  height: 25rem;
+}
